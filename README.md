@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=punithvt&label=Profile%20views&color=0e75b6&style=flat" alt="punithvt" /> </p>
 
-- 🔭 I’m currently working on [100 Days Of Data Science](https://github.com/PunithVT/100-Days-Of-DataScience)
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 💬 Ask me about **Data Analysis and visualization**
+- 🔭 I’m currently working on AUTONOMOUS LMS
 
 - 📫 How to reach me **punithvt@gmail.com**
 
