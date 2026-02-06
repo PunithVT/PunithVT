@@ -148,6 +148,21 @@ focus_areas:
 
 </div>
 
+
+
+### 📝 Recent Activity
+
+- **[PunithVT](https://github.com/PunithVT/PunithVT/commit/ac61962172b01efe5a2d75591c465803847ec9d6)**: 🔧 Fix GitHub Actions permissions for auto-commit
+- **[PunithVT](https://github.com/PunithVT/PunithVT/commit/ffdc0d857ceb0b2bcb9e9a64897aa6522eb99fc6)**: ✨ Add automated README update system
+- **[PunithVT](https://github.com/PunithVT/PunithVT/commit/15d34f659c9f65c72baf13393e537679e20628c6)**: profile update
+
+
+### ⭐ Featured Projects
+
+- **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - A complete real-time AI avatar conversation system with lip-... ⭐ 5
+- **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 1
+
 ## 📊 GitHub Analytics
 
 <div align="center">
