@@ -1,24 +1,62 @@
-<h1 align="center">Hi, I'm Punith V T</h1>
-<h3 align="center">AI Product Developer | Data Science | UI Designer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Product+Developer;Data+Science+Enthusiast;Voice+AI+Systems+Developer;Cloud-Based+AI+Solutions" alt="Typing SVG" />
-</p>
+# 💫 Punith V T
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=punithvt&label=Profile%20views&color=0e75b6&style=flat" alt="punithvt" /> </p>
+### AI Product Developer | Data Science Expert | UI Designer
 
-## About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+AI+Solutions;Voice+AI+%26+Conversational+Agents;AWS+Bedrock+%26+Cloud+Architecture;Model+Context+Protocol+Specialist;LiveKit+Real-time+Communication;LangChain+%26+AI+Orchestration;Data+Science+%26+ML+Engineering" alt="Typing SVG" />
 
-I am an AI Product Developer with a strong foundation in data science, machine learning, and intelligent automation. My work focuses on building scalable AI-driven solutions that bridge research and real-world applications. I'm passionate about developing conversational agents, voice AI systems, and data-driven products that enhance user experiences.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-With hands-on experience in cloud-based AI services, including AWS Bedrock and FastAPI microservices, I aim to create impactful and efficient AI systems that solve complex problems.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/punithvt)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/punithvt)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/punithvt)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punithvt@gmail.com)
 
-- 🔭 Currently working as **AI Product Developer** at Rooman Technologies Pvt Ltd
-- 🌱 Specializing in **Model Context Protocol (MCP), LiveKit, and LangChain**
-- 💼 Building scalable AI-driven solutions and voice AI systems
-- 🎓 Computer Science Engineering, Data Science from MVJ College of Engineering (2021-2025)
-- 📫 Reach me at **punithvt@gmail.com**
-- 📍 Based in **Bengaluru, Karnataka, India**
+![Profile Views](https://komarev.com/ghpvc/?username=punithvt&label=Profile%20Views&color=00D9FF&style=for-the-badge)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+</div>
+
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+AI Product Developer specializing in **building production-grade AI systems** that transform business operations. With expertise spanning **conversational AI, voice systems, and cloud architecture**, I architect and deploy scalable solutions leveraging cutting-edge technologies like AWS Bedrock, Model Context Protocol, and LiveKit.
+
+### 🎯 Professional Highlights
+
+```yaml
+current_role: "AI Product Developer @ Rooman Technologies"
+experience: "3+ years in AI/ML and Product Development"
+specialization:
+  - AI Voice Agents & Real-time Communication
+  - Serverless Agentic Workflows
+  - Cloud-Native AI Architecture
+  - Data Quality Automation
+focus_areas:
+  - Conversational AI Systems
+  - Voice AI Production Deployment
+  - LangChain Orchestration
+  - FastAPI Microservices
+```
+
+### 💡 What I Do
+
+🤖 **AI Product Development** • Building end-to-end AI solutions from concept to production
+🎙️ **Voice AI Systems** • Developing real-time voice agents using LiveKit & advanced LLMs
+☁️ **Cloud Architecture** • Designing serverless workflows with AWS Bedrock
+📊 **Data Intelligence** • Automating data quality monitoring with AI-driven pipelines
+🔗 **AI Orchestration** • Implementing Model Context Protocol for seamless AI integration
+
+### 📍 Quick Facts
+
+- 🏢 Currently at **Rooman Technologies Pvt Ltd** as AI Product Developer
+- 🎓 **B.E. Computer Science (Data Science)** - MVJ College of Engineering
+- 🌐 Based in **Bengaluru, Karnataka, India**
+- 📧 Contact: **punithvt@gmail.com**
+- 💼 Open to collaborations on **AI Voice Systems** and **LLM Applications**
 
 ## Top Skills & Technologies
 
