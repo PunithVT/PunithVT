@@ -29,7 +29,7 @@ AI Product Developer specializing in **building production-grade AI systems** th
 
 ```yaml
 current_role: "AI Product Developer @ Rooman Technologies"
-experience: "3+ years in AI/ML and Product Development"
+experience: "1+ years in AI/ML and Product Development"
 specialization:
   - AI Voice Agents & Real-time Communication
   - Serverless Agentic Workflows
