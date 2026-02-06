@@ -112,28 +112,59 @@ focus_areas:
 
 </div>
 
-## Professional Experience
+## 💼 Professional Experience
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🚀 AI Product Developer
 **Rooman Technologies Pvt Ltd** | *September 2025 - Present*
-- Building scalable AI-driven products and solutions
-- Developing voice AI systems and conversational agents
-- Working with AWS Bedrock and FastAPI microservices
+`AI Systems` `Voice AI` `AWS Bedrock` `Production Deployment`
+
+- 🔨 Architecting and deploying **production-grade AI voice agents** using LiveKit and advanced LLM orchestration
+- ⚡ Building **serverless agentic workflows** with AWS Bedrock for scalable AI operations
+- 🎯 Implementing **Model Context Protocol (MCP)** for seamless AI tool integration
+- 🔧 Developing **FastAPI microservices** for real-time AI inference and data processing
+- 📈 Optimizing AI model performance and reducing latency in production environments
 
 ### 📊 Data Analyst Trainee
 **Trainity** | *December 2024 - March 2025*
-- Hands-on training in data analysis and visualization
-- Working with real-world datasets and business problems
+`Data Analysis` `Business Intelligence` `Statistical Modeling`
+
+- 📉 Performed comprehensive **data analysis** on complex business datasets using Python and SQL
+- 📊 Created interactive **Power BI dashboards** for data-driven decision making
+- 🔍 Applied **statistical methods** and machine learning for predictive analytics
+- 💡 Collaborated with cross-functional teams to deliver actionable insights
 
 ### 🔍 AI Data Quality Analyst Intern
 **Rooman Technologies Pvt Ltd** | *September 2024 - February 2025*
-- Automated data quality monitoring in cloud data warehouses
-- Implemented AI-driven quality assurance processes
+`Data Quality` `Cloud Automation` `AI/ML`
+
+- 🤖 Developed **AI-powered data quality monitoring systems** for cloud data warehouses
+- ⚙️ Automated data validation pipelines reducing manual effort by 70%
+- 🎯 Implemented anomaly detection algorithms for real-time data quality alerts
+- 📊 Built comprehensive data quality dashboards for stakeholder visibility
 
 ### 👨‍💼 Tech Team Lead
-**Nova Innovative Compskey** | *December 2022 - November 2024*
-- Led technical team for 2 years
-- Managed project development and team coordination
+**Nova Innovative Compskey** | *December 2022 - November 2024 (2 years)*
+`Leadership` `Project Management` `Technical Strategy`
+
+- 🎯 Led a technical team of 8+ members in developing innovative software solutions
+- 📋 Managed complete SDLC from requirements gathering to deployment
+- 🚀 Drove adoption of modern development practices and tools
+- 🤝 Coordinated with stakeholders to align technical deliverables with business goals
+- 📈 Improved team productivity by 40% through process optimization
+
+### 📝 Content Team Member
+**Nova Innovative Compskey** | *March 2022 - December 2022*
+`Content Strategy` `Technical Writing` `Documentation`
+
+### 💻 Data Analyst Intern
+**Pheuna Technologies** | *October 2023 - November 2023*
+`Data Analysis` `Visualization` `Reporting`
+
+### 📱 Social Media Marketing Intern
+**DevTown** | *May 2023 - October 2023*
+`Digital Marketing` `Content Creation` `Analytics`
 
 ## Certifications
 
