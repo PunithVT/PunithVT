@@ -44,11 +44,13 @@ focus_areas:
 
 ### 💡 What I Do
 
-🤖 **AI Product Development** • Building end-to-end AI solutions from concept to production
-🎙️ **Voice AI Systems** • Developing real-time voice agents using LiveKit & advanced LLMs
-☁️ **Cloud Architecture** • Designing serverless workflows with AWS Bedrock
-📊 **Data Intelligence** • Automating data quality monitoring with AI-driven pipelines
-🔗 **AI Orchestration** • Implementing Model Context Protocol for seamless AI integration
+- 🔨 Architecting and deploying **production-grade AI voice agents** using LiveKit and advanced LLM orchestration
+- ⚡ Building **serverless agentic workflows** with AWS Bedrock for scalable AI operations
+- 🎯 Implementing **Model Context Protocol (MCP)** for seamless AI tool integration
+- 🔧 Developing **FastAPI microservices** for real-time AI inference and data processing
+- 📈 Optimizing AI model performance and reducing latency in production environments
+- 🤖 Building end-to-end **AI solutions** from concept to production
+- 📊 Automating **data quality monitoring** with AI-driven pipelines
 
 ### 📍 Quick Facts
 
@@ -111,20 +113,6 @@ focus_areas:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
-## 🚀 Current Role
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### AI Product Developer
-**Rooman Technologies Pvt Ltd**
-`AI Systems` `Voice AI` `AWS Bedrock` `Production Deployment`
-
-- 🔨 Architecting and deploying **production-grade AI voice agents** using LiveKit and advanced LLM orchestration
-- ⚡ Building **serverless agentic workflows** with AWS Bedrock for scalable AI operations
-- 🎯 Implementing **Model Context Protocol (MCP)** for seamless AI tool integration
-- 🔧 Developing **FastAPI microservices** for real-time AI inference and data processing
-- 📈 Optimizing AI model performance and reducing latency in production environments
 
 ## 🤝 Let's Connect & Collaborate
 
