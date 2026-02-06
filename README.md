@@ -169,38 +169,27 @@ focus_areas:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br>
+<table>
+<tr>
+<td width="50%">
 
-### 📈 Contribution Stats
+<img src="https://github-readme-stats.vercel.app/api?username=punithvt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=punithvt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=punithvt&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=punithvt&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
-<br>
+</td>
+<td width="50%">
 
-### 💻 Most Used Languages
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=punithvt&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=punithvt&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=10&exclude_repo=repo1,repo2" alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=punithvt&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=10&exclude_repo=repo1,repo2" alt="Top Languages"/>
 
-<br>
-
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=punithvt&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
-</p>
-
-<br>
+</td>
+</tr>
+</table>
 
 ### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=punithvt&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=punithvt&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
 
 </div>
 
