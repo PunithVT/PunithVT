@@ -187,19 +187,51 @@ focus_areas:
 - ✅ Data Engineering & Quality
 - ✅ Agentic AI Workflows
 
-## Education
+## 🎓 Education
 
-🎓 **MVJ College of Engineering, Bangalore**
-- Bachelor of Engineering in Computer Science (Data Science Specialization)
-- 2021 - 2025
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Connect with Me
+### 🏛️ MVJ College of Engineering, Bangalore
+**Bachelor of Engineering in Computer Science**
+*Specialization: Data Science* | **2021 - 2025**
 
-<p align="left">
-<a href="https://linkedin.com/in/punithvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="punithvt" height="30" width="40" /></a>
-<a href="https://kaggle.com/punithvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="punithvt" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/punithvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="punithvt" height="30" width="40" /></a>
-</p>
+- 🔬 Focus on Machine Learning, AI Systems, and Data Engineering
+- 💡 Specialized coursework in Deep Learning, NLP, and Cloud Computing
+- 🚀 Hands-on projects in AI/ML and Full-stack Development
+
+### 📚 Academic Background
+- **Pre-University**: PCMB from Mahesh Pre-University College (2019-2021)
+- **High School**: Adarsha Vidyalaya RMSA (2014-2019)
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🌐 Find Me On
+
+<a href="https://linkedin.com/in/punithvt" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://kaggle.com/punithvt" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Follow-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</a>
+<a href="https://www.hackerrank.com/punithvt" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+<a href="mailto:punithvt@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+### 💬 Open For
+
+🤝 **Collaborations** on AI Voice Systems & LLM Applications
+💼 **Consulting** on AI Product Development & Architecture
+🎤 **Speaking** at Tech Conferences & Meetups
+🔬 **Research** in Conversational AI & Voice Technology
+
+</div>
 
 ## GitHub Stats
 
