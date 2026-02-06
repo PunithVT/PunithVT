@@ -233,31 +233,63 @@ focus_areas:
 
 </div>
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=punithvt&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="punithvt" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=punithvt&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="punithvt" />
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=punithvt&theme=tokyonight&hide_border=true" alt="punithvt" />
-</p>
+### 📈 Contribution Stats
 
-## Support My Work
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=punithvt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=punithvt&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/punithvt">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="punithvt" />
-  </a>
-</p>
+### 💻 Most Used Languages
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=punithvt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=punithvt&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=punithvt&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
+
+</div>
+
+## ☕ Support My Work
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+If you find my work valuable and want to support my journey in AI innovation:
+
+<a href="https://www.buymeacoffee.com/punithvt">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+
+### 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 ---
 
-<p align="center">
-  <i>Let's connect and build something amazing together!</i>
-</p>
+<div align="center">
+
+### 🔗 Let's build something extraordinary together!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Available+for+AI+Projects;Open+to+Collaboration;Let's+Connect!" alt="Typing SVG" />
+
+<br>
+
+**Made with 💙 by Punith V T**
+
+⭐ **Star my repositories if you find them useful!** ⭐
+
+</div>
+
+</div>
 
