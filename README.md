@@ -166,13 +166,26 @@ focus_areas:
 **DevTown** | *May 2023 - October 2023*
 `Digital Marketing` `Content Creation` `Analytics`
 
-## Certifications
+## 🎓 Certifications & Credentials
 
-- 🎓 **Building AI Voice Agents for Production**
-- 🎓 **Serverless Agentic Workflows with Amazon Bedrock**
-- 🎓 **Career Essentials in Generative AI** by Microsoft and LinkedIn
-- 🎓 **Automating Data Quality Monitoring in Cloud Data Warehouses with AI**
-- 🎓 **Data Visualisation using Power BI**
+<div align="center">
+
+| Certification | Provider | Focus Area |
+|--------------|----------|------------|
+| 🎙️ **Building AI Voice Agents for Production** | Industry Expert | Voice AI Systems |
+| ☁️ **Serverless Agentic Workflows with Amazon Bedrock** | AWS | Cloud AI Architecture |
+| 🤖 **Career Essentials in Generative AI** | Microsoft & LinkedIn | GenAI Fundamentals |
+| 📊 **Automating Data Quality Monitoring** | Cloud Platform | AI-Driven QA |
+| 📈 **Data Visualisation using Power BI** | Microsoft | Business Intelligence |
+
+</div>
+
+### 🏆 Key Competencies
+- ✅ Production AI Deployment
+- ✅ Real-time Voice Systems
+- ✅ Cloud-Native Architecture
+- ✅ Data Engineering & Quality
+- ✅ Agentic AI Workflows
 
 ## Education
 
