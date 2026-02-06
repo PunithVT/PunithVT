@@ -112,12 +112,12 @@ focus_areas:
 
 </div>
 
-## 💼 Professional Experience
+## 🚀 Current Role
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🚀 AI Product Developer
-**Rooman Technologies Pvt Ltd** | *September 2025 - Present*
+### AI Product Developer
+**Rooman Technologies Pvt Ltd**
 `AI Systems` `Voice AI` `AWS Bedrock` `Production Deployment`
 
 - 🔨 Architecting and deploying **production-grade AI voice agents** using LiveKit and advanced LLM orchestration
@@ -125,83 +125,6 @@ focus_areas:
 - 🎯 Implementing **Model Context Protocol (MCP)** for seamless AI tool integration
 - 🔧 Developing **FastAPI microservices** for real-time AI inference and data processing
 - 📈 Optimizing AI model performance and reducing latency in production environments
-
-### 📊 Data Analyst Trainee
-**Trainity** | *December 2024 - March 2025*
-`Data Analysis` `Business Intelligence` `Statistical Modeling`
-
-- 📉 Performed comprehensive **data analysis** on complex business datasets using Python and SQL
-- 📊 Created interactive **Power BI dashboards** for data-driven decision making
-- 🔍 Applied **statistical methods** and machine learning for predictive analytics
-- 💡 Collaborated with cross-functional teams to deliver actionable insights
-
-### 🔍 AI Data Quality Analyst Intern
-**Rooman Technologies Pvt Ltd** | *September 2024 - February 2025*
-`Data Quality` `Cloud Automation` `AI/ML`
-
-- 🤖 Developed **AI-powered data quality monitoring systems** for cloud data warehouses
-- ⚙️ Automated data validation pipelines reducing manual effort by 70%
-- 🎯 Implemented anomaly detection algorithms for real-time data quality alerts
-- 📊 Built comprehensive data quality dashboards for stakeholder visibility
-
-### 👨‍💼 Tech Team Lead
-**Nova Innovative Compskey** | *December 2022 - November 2024 (2 years)*
-`Leadership` `Project Management` `Technical Strategy`
-
-- 🎯 Led a technical team of 8+ members in developing innovative software solutions
-- 📋 Managed complete SDLC from requirements gathering to deployment
-- 🚀 Drove adoption of modern development practices and tools
-- 🤝 Coordinated with stakeholders to align technical deliverables with business goals
-- 📈 Improved team productivity by 40% through process optimization
-
-### 📝 Content Team Member
-**Nova Innovative Compskey** | *March 2022 - December 2022*
-`Content Strategy` `Technical Writing` `Documentation`
-
-### 💻 Data Analyst Intern
-**Pheuna Technologies** | *October 2023 - November 2023*
-`Data Analysis` `Visualization` `Reporting`
-
-### 📱 Social Media Marketing Intern
-**DevTown** | *May 2023 - October 2023*
-`Digital Marketing` `Content Creation` `Analytics`
-
-## 🎓 Certifications & Credentials
-
-<div align="center">
-
-| Certification | Provider | Focus Area |
-|--------------|----------|------------|
-| 🎙️ **Building AI Voice Agents for Production** | Industry Expert | Voice AI Systems |
-| ☁️ **Serverless Agentic Workflows with Amazon Bedrock** | AWS | Cloud AI Architecture |
-| 🤖 **Career Essentials in Generative AI** | Microsoft & LinkedIn | GenAI Fundamentals |
-| 📊 **Automating Data Quality Monitoring** | Cloud Platform | AI-Driven QA |
-| 📈 **Data Visualisation using Power BI** | Microsoft | Business Intelligence |
-
-</div>
-
-### 🏆 Key Competencies
-- ✅ Production AI Deployment
-- ✅ Real-time Voice Systems
-- ✅ Cloud-Native Architecture
-- ✅ Data Engineering & Quality
-- ✅ Agentic AI Workflows
-
-## 🎓 Education
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🏛️ MVJ College of Engineering, Bangalore
-**Bachelor of Engineering in Computer Science**
-*Specialization: Data Science* | **2021 - 2025**
-
-- 🔬 Focus on Machine Learning, AI Systems, and Data Engineering
-- 💡 Specialized coursework in Deep Learning, NLP, and Cloud Computing
-- 🚀 Hands-on projects in AI/ML and Full-stack Development
-
-### 📚 Academic Background
-- **Pre-University**: PCMB from Mahesh Pre-University College (2019-2021)
-- **High School**: Adarsha Vidyalaya RMSA (2014-2019)
 
 ## 🤝 Let's Connect & Collaborate
 
