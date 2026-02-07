@@ -154,11 +154,13 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[PunithVT](https://github.com/PunithVT/PunithVT/commit/b2b3c61c6cbf6e36d58f5b5675f004960987527c)**: profile update
-- **[PunithVT](https://github.com/PunithVT/PunithVT/commit/8188198f2a1523a4885d15820a199ce80da9e77c)**: profile update
-- **[PunithVT](https://github.com/PunithVT/PunithVT/commit/cbe8049d15ee7de4f228fe0429024f5e63e1425f)**: profile update
+- **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent/commit/b2453995e725366770f77a29ca477b7c86e8f288)**: Dockerfile update
+- **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent/commit/3c4ee5d84c15f10d5998f84367181b447a2fe376)**: feat(backend): add voice command system for hands-free control
+- **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent/commit/30f5f3b006108dc76bc35165aced14da26fe926a)**: feat(backend): add AI quiz generator with multiple question types
 
 
 ### ⭐ Featured Projects
