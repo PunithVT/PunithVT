@@ -168,6 +168,8 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent/commit/b2453995e725366770f77a29ca477b7c86e8f288)**: Dockerfile update
@@ -179,7 +181,7 @@ focus_areas:
 
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - A complete real-time AI avatar conversation system with lip-... ⭐ 5
-- **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 1
+- **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 2
 
 ## 📊 GitHub Analytics
 
