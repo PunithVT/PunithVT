@@ -172,11 +172,13 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
+- **[text-to-image](https://github.com/PunithVT/text-to-image/commit/fe0ad069b6be1f984fb136ab5315429b999924a3)**: Z-Image-Turbo is a 6B parameter text-to-image model by Alibaba/Tongyi that gener
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent/commit/b2453995e725366770f77a29ca477b7c86e8f288)**: Dockerfile update
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent/commit/3c4ee5d84c15f10d5998f84367181b447a2fe376)**: feat(backend): add voice command system for hands-free control
-- **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent/commit/30f5f3b006108dc76bc35165aced14da26fe926a)**: feat(backend): add AI quiz generator with multiple question types
 
 
 ### ⭐ Featured Projects
