@@ -184,17 +184,19 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[text-to-image](https://github.com/PunithVT/text-to-image/commit/fe0ad069b6be1f984fb136ab5315429b999924a3)**: Z-Image-Turbo is a 6B parameter text-to-image model by Alibaba/Tongyi that gener
-- **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent/commit/b2453995e725366770f77a29ca477b7c86e8f288)**: Dockerfile update
-- **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent/commit/3c4ee5d84c15f10d5998f84367181b447a2fe376)**: feat(backend): add voice command system for hands-free control
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/964bafab2f28aca15421fb11e79e97b3a579dca2)**:  added Canvas API for waveform, replaced S3 with Local FS or AWS S3
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/c7efa93bd511bb41bac1b9e63b13c36232856b25)**: feat: propagate session ID to VoicePanel and wire onSessionCreated callback
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/1329786a1a9b45ed7c651397c4a67186015e258c)**: feat: mount local uploads as StaticFiles and add set_voice WebSocket message han
 
 
 ### ⭐ Featured Projects
 
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - A complete real-time AI avatar conversation system with lip-... ⭐ 5
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - Upload a photo · Clone a voice · Talk to any face in real ti... ⭐ 5
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 2
 
 ## 📊 GitHub Analytics
