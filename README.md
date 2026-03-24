@@ -244,17 +244,19 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/964bafab2f28aca15421fb11e79e97b3a579dca2)**:  added Canvas API for waveform, replaced S3 with Local FS or AWS S3
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/c7efa93bd511bb41bac1b9e63b13c36232856b25)**: feat: propagate session ID to VoicePanel and wire onSessionCreated callback
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/1329786a1a9b45ed7c651397c4a67186015e258c)**: feat: mount local uploads as StaticFiles and add set_voice WebSocket message han
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/66761531f28c01349bf01e2c354b59ede5c9d00b)**: Run CI only on pull requests, not on direct pushes to main/develop
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/599f91a5ce7874df7319be724e1b80c8f1d75232)**: Fix SadTalker torchvision compat and sentinel detection
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/590ffda6c6e48f38d902db52834c62190efd750a)**: Merge branch 'main' of https://github.com/PunithVT/ai-avatar-system
 
 
 ### ⭐ Featured Projects
 
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - Upload a photo · Clone a voice · Talk to any face in real ti... ⭐ 5
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 5
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 2
 
 ## 📊 GitHub Analytics
