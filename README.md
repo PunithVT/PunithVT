@@ -248,11 +248,13 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/66761531f28c01349bf01e2c354b59ede5c9d00b)**: Run CI only on pull requests, not on direct pushes to main/develop
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/599f91a5ce7874df7319be724e1b80c8f1d75232)**: Fix SadTalker torchvision compat and sentinel detection
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/590ffda6c6e48f38d902db52834c62190efd750a)**: Merge branch 'main' of https://github.com/PunithVT/ai-avatar-system
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/c31266e98a9ab8b1fee3112961028b30d55b3c72)**: Fix MuseTalk VAE: download sd-vae-ft-mse, fix unet_config path
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/e4934a64a71c57fd9917a71b4688bb09aef1d765)**: Fix MuseTalk preprocessing: full rewrite replacing broken mmpose patch
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/ea2d69b0311cce857f29d245dead624b3be91552)**: Fix MuseTalk dependency conflict: upgrade diffusers to 0.32.2
 
 
 ### ⭐ Featured Projects
