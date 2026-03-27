@@ -250,11 +250,13 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/c31266e98a9ab8b1fee3112961028b30d55b3c72)**: Fix MuseTalk VAE: download sd-vae-ft-mse, fix unet_config path
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/e4934a64a71c57fd9917a71b4688bb09aef1d765)**: Fix MuseTalk preprocessing: full rewrite replacing broken mmpose patch
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/ea2d69b0311cce857f29d245dead624b3be91552)**: Fix MuseTalk dependency conflict: upgrade diffusers to 0.32.2
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/dac7bac1d4a7c2f162991cadb0e01d4272d9140e)**: Real-time streaming: sentence chunks + idle avatar animation
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/b2829e92116e734ee2f285f4085c318f36cad5ff)**: Speed up MuseTalk: persistent worker + face coord cache
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/72b29e01ba28641447727b070c7bb3625fa560bd)**: Fix XTTS license prompt and add MuseTalk 10min timeout
 
 
 ### ⭐ Featured Projects
