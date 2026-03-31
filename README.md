@@ -258,6 +258,8 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
 - **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/dac7bac1d4a7c2f162991cadb0e01d4272d9140e)**: Real-time streaming: sentence chunks + idle avatar animation
@@ -268,7 +270,7 @@ focus_areas:
 ### ⭐ Featured Projects
 
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 8
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 10
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 2
 
 ## 📊 GitHub Analytics
