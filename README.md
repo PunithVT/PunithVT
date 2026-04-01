@@ -260,11 +260,13 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/dac7bac1d4a7c2f162991cadb0e01d4272d9140e)**: Real-time streaming: sentence chunks + idle avatar animation
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/b2829e92116e734ee2f285f4085c318f36cad5ff)**: Speed up MuseTalk: persistent worker + face coord cache
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/72b29e01ba28641447727b070c7bb3625fa560bd)**: Fix XTTS license prompt and add MuseTalk 10min timeout
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/2c7064cff69334817c766f56e4fd85a1738af051)**: Auth UI, latency display, avatar name editing, audio latency tracking
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/2fd8738e9b03ee029ad55b7006b8721e3770de52)**: Feature gaps: language selector, avatar personality editor, voice orphan protect
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/dc64980629fc8e19a417a8458e5d9b9838af629b)**: World-class improvements: streaming pipeline, token UI, preload, export, file up
 
 
 ### ⭐ Featured Projects
