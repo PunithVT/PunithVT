@@ -276,6 +276,8 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
 - **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/2c7064cff69334817c766f56e4fd85a1738af051)**: Auth UI, latency display, avatar name editing, audio latency tracking
@@ -286,7 +288,7 @@ focus_areas:
 ### ⭐ Featured Projects
 
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 12
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 13
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 2
 
 ## 📊 GitHub Analytics
