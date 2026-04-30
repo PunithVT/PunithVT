@@ -318,18 +318,20 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/7c1bd2fef02fc2fc63753cd3cdc274a00aa35468)**: first commit
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/9ad0a2c8660e078c3eb5acb95d654e4786b43fdd)**: fix: consistent error handling and pagination validation across API routes
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/1e77fea0317b6630ae6c89b7ade329d8a70b2281)**: refactor: replace any types with proper TypeScript interfaces
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/e3367f5c7a3ef4604e71fdb63f3b40492f2418b5)**: a11y: add aria-label to icon-only buttons in ChatInterface
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/fc1221afa0fd478751eef8c330422903f1a327f3)**: deps: migrate TTS engine from Coqui XTTS v2 to Chatterbox Multilingual
+- **[career-ops](https://github.com/PunithVT/career-ops/commit/0f680b342d7e5797e8b65334f69bdb5f2b0f8785)**: Add LICENSE, CLAUDE.md, and .github/ for repo credibility
 
 
 ### ⭐ Featured Projects
 
 - **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 21
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
-- **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 3
+- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith)** - We’ve started a 30-day challenge to learn AWS and Agentic AI... ⭐ 3
 
 ## 📊 GitHub Analytics
 
