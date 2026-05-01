@@ -320,18 +320,20 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/e3367f5c7a3ef4604e71fdb63f3b40492f2418b5)**: a11y: add aria-label to icon-only buttons in ChatInterface
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/fc1221afa0fd478751eef8c330422903f1a327f3)**: deps: migrate TTS engine from Coqui XTTS v2 to Chatterbox Multilingual
-- **[career-ops](https://github.com/PunithVT/career-ops/commit/0f680b342d7e5797e8b65334f69bdb5f2b0f8785)**: Add LICENSE, CLAUDE.md, and .github/ for repo credibility
+- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/83fbb7ade893cf66d42634e9abbb09725e612086)**: Enhance AWS Lambda role assumption documentation
+- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/fa5b6dd20ccbfc79e448b7f6370b05ac710a9b31)**: Document AWS Secrets Manager vs Parameter Store
+- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/ecd627996692c0f700a1387529ad47f7ddd8adf4)**: Add detailed notes on AI agent security practices
 
 
 ### ⭐ Featured Projects
 
 - **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 21
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
-- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith)** - We’ve started a 30-day challenge to learn AWS and Agentic AI... ⭐ 3
+- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 3
 
 ## 📊 GitHub Analytics
 
