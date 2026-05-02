@@ -322,18 +322,20 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
+- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/a255e79c1c8c38b9cb1401bad36b4c150d3ff0be)**: Add day3-rag folder structure (README + punith/chandana stubs) and link from roo
+- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/eb07b1d716532a83adea30613497596af2a5b431)**: day2-iam/punith: format and polish — agent security, secrets management, Lambda+
 - **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/83fbb7ade893cf66d42634e9abbb09725e612086)**: Enhance AWS Lambda role assumption documentation
-- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/fa5b6dd20ccbfc79e448b7f6370b05ac710a9b31)**: Document AWS Secrets Manager vs Parameter Store
-- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/ecd627996692c0f700a1387529ad47f7ddd8adf4)**: Add detailed notes on AI agent security practices
 
 
 ### ⭐ Featured Projects
 
 - **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 21
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
-- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 3
+- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
 ## 📊 GitHub Analytics
 
