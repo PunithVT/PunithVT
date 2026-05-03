@@ -324,6 +324,8 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
 - **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/a255e79c1c8c38b9cb1401bad36b4c150d3ff0be)**: Add day3-rag folder structure (README + punith/chandana stubs) and link from roo
@@ -333,7 +335,7 @@ focus_areas:
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 21
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 22
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
