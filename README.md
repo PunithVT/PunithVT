@@ -326,11 +326,13 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/a255e79c1c8c38b9cb1401bad36b4c150d3ff0be)**: Add day3-rag folder structure (README + punith/chandana stubs) and link from roo
-- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/eb07b1d716532a83adea30613497596af2a5b431)**: day2-iam/punith: format and polish — agent security, secrets management, Lambda+
-- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/83fbb7ade893cf66d42634e9abbb09725e612086)**: Enhance AWS Lambda role assumption documentation
+- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/cf178252c7ac585090f2704b778fa3e1f7f32c77)**: day4-mcp: scaffold folder structure from issue #4
+- **[career-ops](https://github.com/PunithVT/career-ops/commit/fa0dfe6331b15ddd694d0dfc8249d04d3c249c91)**: Harden auth, user store, and follow-up UI against three latent bugs
+- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/a8acb03d9d8639d2d1c63d4a14b8bb5cb37ef52a)**: add full RAG retrieval & ranking notes — embeddings
 
 
 ### ⭐ Featured Projects
