@@ -328,18 +328,20 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/cf178252c7ac585090f2704b778fa3e1f7f32c77)**: day4-mcp: scaffold folder structure from issue #4
+- **[CSvsPVT](https://github.com/PunithVT/CSvsPVT/commit/cf178252c7ac585090f2704b778fa3e1f7f32c77)**: day4-mcp: scaffold folder structure from issue #4
 - **[career-ops](https://github.com/PunithVT/career-ops/commit/fa0dfe6331b15ddd694d0dfc8249d04d3c249c91)**: Harden auth, user store, and follow-up UI against three latent bugs
-- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith/commit/a8acb03d9d8639d2d1c63d4a14b8bb5cb37ef52a)**: add full RAG retrieval & ranking notes — embeddings
+- **[CSvsPVT](https://github.com/PunithVT/CSvsPVT/commit/a8acb03d9d8639d2d1c63d4a14b8bb5cb37ef52a)**: add full RAG retrieval & ranking notes — embeddings
 
 
 ### ⭐ Featured Projects
 
 - **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 22
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
-- **[chandana-vs-punith](https://github.com/PunithVT/chandana-vs-punith)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
+- **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
 ## 📊 GitHub Analytics
 
