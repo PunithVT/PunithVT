@@ -330,11 +330,13 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
+- **[CSvsPVT](https://github.com/PunithVT/CSvsPVT/commit/3ce6b3a821396a8586b4c3e991b25eb1bcf47531)**: Add day5-observability and day6-containers folder structures and link from root
+- **[CSvsPVT](https://github.com/PunithVT/CSvsPVT/commit/ae7f7239d42c44e1f5fa6b1364a01fdde0dd149a)**: day4-mcp/punith: complete MCP notes — protocol, FastMCP server, Claude Desktop /
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT/commit/cf178252c7ac585090f2704b778fa3e1f7f32c77)**: day4-mcp: scaffold folder structure from issue #4
-- **[career-ops](https://github.com/PunithVT/career-ops/commit/fa0dfe6331b15ddd694d0dfc8249d04d3c249c91)**: Harden auth, user store, and follow-up UI against three latent bugs
-- **[CSvsPVT](https://github.com/PunithVT/CSvsPVT/commit/a8acb03d9d8639d2d1c63d4a14b8bb5cb37ef52a)**: add full RAG retrieval & ranking notes — embeddings
 
 
 ### ⭐ Featured Projects
