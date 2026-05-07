@@ -332,11 +332,13 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[CSvsPVT](https://github.com/PunithVT/CSvsPVT/commit/3ce6b3a821396a8586b4c3e991b25eb1bcf47531)**: Add day5-observability and day6-containers folder structures and link from root
-- **[CSvsPVT](https://github.com/PunithVT/CSvsPVT/commit/ae7f7239d42c44e1f5fa6b1364a01fdde0dd149a)**: day4-mcp/punith: complete MCP notes — protocol, FastMCP server, Claude Desktop /
-- **[CSvsPVT](https://github.com/PunithVT/CSvsPVT/commit/cf178252c7ac585090f2704b778fa3e1f7f32c77)**: day4-mcp: scaffold folder structure from issue #4
+- **[AIML-Template](https://github.com/PunithVT/AIML-Template/commit/b8b9931d6785e755a7e6b1131a280c9fa8adb7e4)**: Scaffold resume parser & candidate ranking template
+- **[AIML-Template](https://github.com/PunithVT/AIML-Template/commit/38fa3b350a3505a43fc5490cfcdde6e4a01af594)**: Initial commit
+- **[retirement-calculator](https://github.com/PunithVT/retirement-calculator/commit/51fb353e36ded1a41d4b8b54129941fcf313a5b6)**: Remove Rooman Technologies mention from README author line
 
 
 ### ⭐ Featured Projects
