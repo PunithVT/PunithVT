@@ -334,6 +334,8 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
 - **[AIML-Template](https://github.com/PunithVT/AIML-Template/commit/b8b9931d6785e755a7e6b1131a280c9fa8adb7e4)**: Scaffold resume parser & candidate ranking template
@@ -343,7 +345,7 @@ focus_areas:
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 22
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 23
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
