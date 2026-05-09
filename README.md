@@ -336,11 +336,13 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[AIML-Template](https://github.com/PunithVT/AIML-Template/commit/b8b9931d6785e755a7e6b1131a280c9fa8adb7e4)**: Scaffold resume parser & candidate ranking template
-- **[AIML-Template](https://github.com/PunithVT/AIML-Template/commit/38fa3b350a3505a43fc5490cfcdde6e4a01af594)**: Initial commit
-- **[retirement-calculator](https://github.com/PunithVT/retirement-calculator/commit/51fb353e36ded1a41d4b8b54129941fcf313a5b6)**: Remove Rooman Technologies mention from README author line
+- **[retirement-calculator](https://github.com/PunithVT/retirement-calculator/commit/63aa0fc5d64edc7c9399414409d6633af6a33439)**: Kill horizontal overflow on mobile
+- **[retirement-calculator](https://github.com/PunithVT/retirement-calculator/commit/2c0113cca3d203c0ca796f4b53bdfdbdbfb075e9)**: Real mobile-friendliness pass: shorter form, scrollable nav, smaller chart chips
+- **[retirement-calculator](https://github.com/PunithVT/retirement-calculator/commit/7a7f172c269553580ed3f9274b744d282103ebf2)**: Rewrite the corpus chart: smooth curves, hover tooltip, milestone markers
 
 
 ### ⭐ Featured Projects
