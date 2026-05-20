@@ -358,11 +358,13 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[retirement-calculator](https://github.com/PunithVT/retirement-calculator/commit/63aa0fc5d64edc7c9399414409d6633af6a33439)**: Kill horizontal overflow on mobile
-- **[retirement-calculator](https://github.com/PunithVT/retirement-calculator/commit/2c0113cca3d203c0ca796f4b53bdfdbdbfb075e9)**: Real mobile-friendliness pass: shorter form, scrollable nav, smaller chart chips
-- **[retirement-calculator](https://github.com/PunithVT/retirement-calculator/commit/7a7f172c269553580ed3f9274b744d282103ebf2)**: Rewrite the corpus chart: smooth curves, hover tooltip, milestone markers
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/53ce1124b2dfde1dbe2257474662b82c483197ef)**: feat(frontend): barge-in handler, code-split heavy panels, native Web Vitals rep
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/cc88ae34dadd51da36a457169e7f693113540941)**: feat(backend): typed LLM errors, extended thinking, WS barge-in, robust correctn
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/20317b7275eebf632d7d6916cfcd1d643d4bde84)**: security+obs: CSP, private temp files, S3 ACL fix, voice IDOR, structured logs
 
 
 ### ⭐ Featured Projects
