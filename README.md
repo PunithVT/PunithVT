@@ -390,16 +390,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/53ce1124b2dfde1dbe2257474662b82c483197ef)**: feat(frontend): barge-in handler, code-split heavy panels, native Web Vitals rep
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/cc88ae34dadd51da36a457169e7f693113540941)**: feat(backend): typed LLM errors, extended thinking, WS barge-in, robust correctn
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/20317b7275eebf632d7d6916cfcd1d643d4bde84)**: security+obs: CSP, private temp files, S3 ACL fix, voice IDOR, structured logs
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/469c38f5e146ac25cf53695447ba74cbaeb51972)**: fix: STT ignores session language; conversation message_count is stale
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/20c0c0c56fcd1ec8aa2ead9653d16a9a5357f334)**: fix(frontend): make "Open" from history actually resume the conversation
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/f0a47b60d1c56fd6df74b14b252359bac93b6a35)**: test(ws): end-to-end turn through the real ASGI WebSocket endpoint
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 222
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 225
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
