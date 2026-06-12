@@ -404,16 +404,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/469c38f5e146ac25cf53695447ba74cbaeb51972)**: fix: STT ignores session language; conversation message_count is stale
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/20c0c0c56fcd1ec8aa2ead9653d16a9a5357f334)**: fix(frontend): make "Open" from history actually resume the conversation
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/f0a47b60d1c56fd6df74b14b252359bac93b6a35)**: test(ws): end-to-end turn through the real ASGI WebSocket endpoint
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/052217aef65da03ed06101c54070c1950ed021c7)**: docs(readme): refresh to current stack; add comparison, What's New, FAQ
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/f54638061823f99dd0122c779a08532d0373cfcc)**: feat(onboarding): demo avatar seeding + prebuilt GHCR images
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/a2b60439a007381b5011792bf870ddbe2dd0b04c)**: fix(avatars): metadata PATCH silently never persisted
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 Open-source AI avatar platform — upload a photo, clone a v... ⭐ 235
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 245
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
