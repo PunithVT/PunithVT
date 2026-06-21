@@ -422,6 +422,8 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
 - **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/052217aef65da03ed06101c54070c1950ed021c7)**: docs(readme): refresh to current stack; add comparison, What's New, FAQ
@@ -431,7 +433,7 @@ focus_areas:
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 266
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 270
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
