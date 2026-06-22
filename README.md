@@ -424,16 +424,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/052217aef65da03ed06101c54070c1950ed021c7)**: docs(readme): refresh to current stack; add comparison, What's New, FAQ
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/f54638061823f99dd0122c779a08532d0373cfcc)**: feat(onboarding): demo avatar seeding + prebuilt GHCR images
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/a2b60439a007381b5011792bf870ddbe2dd0b04c)**: fix(avatars): metadata PATCH silently never persisted
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/f90e24766819053a7cd94548deea584ceb78775f)**: ci: make deploy.yml manual-only (ECS target does not exist yet)
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/82aa9feb1cfe91d39267a24943b6f4218257e2c7)**: fix(frontend): video errors no longer hang playback; release media on unmount
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/37fca6cd9e26b54b077d701c72f2a2ff432e0b31)**: fix(backend): reap real temp dirs; harden MuseTalk worker + celery temp files
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 270
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 273
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
