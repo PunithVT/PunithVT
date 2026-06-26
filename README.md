@@ -432,6 +432,8 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
 - **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/f90e24766819053a7cd94548deea584ceb78775f)**: ci: make deploy.yml manual-only (ECS target does not exist yet)
@@ -441,7 +443,7 @@ focus_areas:
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 279
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 280
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
