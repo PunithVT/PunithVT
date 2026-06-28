@@ -436,16 +436,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/f90e24766819053a7cd94548deea584ceb78775f)**: ci: make deploy.yml manual-only (ECS target does not exist yet)
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/82aa9feb1cfe91d39267a24943b6f4218257e2c7)**: fix(frontend): video errors no longer hang playback; release media on unmount
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/37fca6cd9e26b54b077d701c72f2a2ff432e0b31)**: fix(backend): reap real temp dirs; harden MuseTalk worker + celery temp files
+- **[connectX](https://github.com/PunithVT/connectX/commit/77e6e1a984fb8f5ac7803cb20b0dff6fe32a751c)**: fix(ux): pin sidebar with full-width grid, fix Feed title, StartupVarsity banner
+- **[connectX](https://github.com/PunithVT/connectX/commit/4a1aa33f088b6be1a8565837cb1fed5f7a065772)**: docs: rich, SEO-optimized README for alumni network platform
+- **[connectX](https://github.com/PunithVT/connectX/commit/51b6c40fafe9b5d99dffd0a511f1261e0dff52cf)**: Add seed_demo_pair: 2 alumni with connection, chat, posts, endorsements for demo
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 281
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 283
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
