@@ -446,16 +446,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
+- **[career-ops](https://github.com/PunithVT/career-ops/commit/8dadfa34697bfcb3416f08e3bdaee29ec1bee738)**: Harden web app: XSS sanitization, auth rate limiting, atomic user store, fork-sa
 - **[career-ops](https://github.com/PunithVT/career-ops/commit/95141a3b0efa9781033c1993ea2370b6140308f8)**: Restore missing infrastructure + fix latent web-app bugs
 - **[career-ops](https://github.com/PunithVT/career-ops/commit/544b745fc324184ffb54322ee40b5bccd1ef0090)**: Enrich Bangalore IT companies doc with full research results
-- **[career-ops](https://github.com/PunithVT/career-ops/commit/1d42e36f0b4cc0bb027555091a5f5a89bf606e4d)**: Add Bangalore IT companies job/careers links reference
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 293
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 295
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
