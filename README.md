@@ -450,6 +450,8 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
 - **[career-ops](https://github.com/PunithVT/career-ops/commit/8dadfa34697bfcb3416f08e3bdaee29ec1bee738)**: Harden web app: XSS sanitization, auth rate limiting, atomic user store, fork-sa
@@ -459,7 +461,7 @@ focus_areas:
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 295
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 296
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
