@@ -458,6 +458,8 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
 - **[career-ops](https://github.com/PunithVT/career-ops/commit/62425e0988d02c82d48a452aec67044707b5d493)**: Remove career-links.xlsx from repo — keep as local-only artifact
@@ -467,7 +469,7 @@ focus_areas:
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 302
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 303
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
