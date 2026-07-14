@@ -468,16 +468,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/865fd2823677d001bd30736dfa1326ec1578aa26)**: fix(musetalk): ship musetalk_worker.py so lip-sync actually works (#5)
 - **[career-ops](https://github.com/PunithVT/career-ops/commit/62425e0988d02c82d48a452aec67044707b5d493)**: Remove career-links.xlsx from repo — keep as local-only artifact
 - **[career-ops](https://github.com/PunithVT/career-ops/commit/bfbef88f59fed2c09b49dd85fcdc71792330681f)**: Add PDF Companies Direct Jobs sheet: 636 India openings via Workday API (Autodes
-- **[career-ops](https://github.com/PunithVT/career-ops/commit/ad6d8007d426d48c0cd2c5c249f8214ed9c61469)**: Refresh Live Openings sheet: 785 India jobs with direct apply links (2026-07-07)
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 311
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 312
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
