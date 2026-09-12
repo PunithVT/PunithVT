@@ -588,16 +588,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/865fd2823677d001bd30736dfa1326ec1578aa26)**: fix(musetalk): ship musetalk_worker.py so lip-sync actually works (#5)
-- **[career-ops](https://github.com/PunithVT/career-ops/commit/62425e0988d02c82d48a452aec67044707b5d493)**: Remove career-links.xlsx from repo — keep as local-only artifact
-- **[career-ops](https://github.com/PunithVT/career-ops/commit/bfbef88f59fed2c09b49dd85fcdc71792330681f)**: Add PDF Companies Direct Jobs sheet: 636 India openings via Workday API (Autodes
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/4476ff97085d879301f28c8025bc362d464479b5)**: Close auth, rate-limit, dependency and CI gaps found in end-to-end audit (#11)
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/4a1bcf908ed141f2b4a0dd0122ee0bd3afd2e5a7)**: fix(docker): build the frontend image on Node 22
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/5e08ff97a487f35234755f943574b3b232fd7224)**: fix(docker): retry the whole apt step, not just in-band fetches
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 482
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 484
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
