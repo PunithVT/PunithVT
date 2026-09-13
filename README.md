@@ -590,16 +590,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/4476ff97085d879301f28c8025bc362d464479b5)**: Close auth, rate-limit, dependency and CI gaps found in end-to-end audit (#11)
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/4a1bcf908ed141f2b4a0dd0122ee0bd3afd2e5a7)**: fix(docker): build the frontend image on Node 22
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/5e08ff97a487f35234755f943574b3b232fd7224)**: fix(docker): retry the whole apt step, not just in-band fetches
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/5e09c29cbcb046ef57ddb489891482d277098c3a)**: Hands-free mode with voice activity detection (#14)
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/360225d07eb26fb4ce47bbe3356f076f909cb474)**: feat(voice): hands-free mode with voice activity detection
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/7a090b9f8a9166f86912e821149f76004238c246)**: Replace python-jose with PyJWT and centralise token handling (#13)
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 484
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 485
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
