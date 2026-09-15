@@ -594,6 +594,8 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
 - **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/757f44082c53c01d0fe4d5167008adc13da6bae9)**: Cap the voice upload; stop vitals observers leaking (#16)
@@ -603,7 +605,7 @@ focus_areas:
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 487
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 491
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
