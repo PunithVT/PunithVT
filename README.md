@@ -12,6 +12,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/punithvt)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/punithvt)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punithvt@gmail.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/PunithVT)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=punithvt&label=Profile%20Views&color=00D9FF&style=for-the-badge)
 
@@ -651,11 +652,20 @@ focus_areas:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-If you find my work valuable and want to support my journey in AI innovation:
+**[AvatarAI](https://github.com/PunithVT/ai-avatar-system)** is used by ~900 developers a
+month and is MIT licensed. Sponsorship pays for the parts that are expensive to
+give away: GPU hours for testing the lip-sync pipeline, evaluating new TTS and
+STT models so the defaults stay current, and the dependency and security upkeep
+that keeps it safe to run in production.
 
-<a href="https://www.buymeacoffee.com/punithvt">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+<a href="https://github.com/sponsors/PunithVT">
+  <img src="https://img.shields.io/badge/GitHub_Sponsors-Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor on GitHub"/>
 </a>
+<a href="https://www.buymeacoffee.com/punithvt">
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-One_off-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+</a>
+
+<sub>Company depending on AvatarAI in production? Sponsorship is how it stays maintained.</sub>
 
 <br><br>
 
