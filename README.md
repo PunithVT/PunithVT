@@ -600,16 +600,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/757f44082c53c01d0fe4d5167008adc13da6bae9)**: Cap the voice upload; stop vitals observers leaking (#16)
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/93877a041fecf9cc061aee26154271896604ed5f)**: fix(uploads,vitals): cap the voice upload; stop vitals observers leaking
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/388e0281ffe4fc39c9e5296686a94128d68e0619)**: Repair LLM streaming, typed errors and the TTS fallback chain (#15)
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/d4edcc198c9fe0493823be1b1ac1adf0948c12ab)**: Complete the ECS deployment path so it actually runs the app (#20)
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/5e332dbc67b3b7c07ac9ea7c1c7f68fbd7be731d)**: feat(infra): complete the ECS deployment path so it actually runs the app
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/a5a5d97585c4bd7bc91cee3e0f520438a5460786)**: Pass .env to the containers; end is_guest schema drift (#19)
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 492
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 493
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
