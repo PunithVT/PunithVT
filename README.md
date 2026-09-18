@@ -603,11 +603,13 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/d4edcc198c9fe0493823be1b1ac1adf0948c12ab)**: Complete the ECS deployment path so it actually runs the app (#20)
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/5e332dbc67b3b7c07ac9ea7c1c7f68fbd7be731d)**: feat(infra): complete the ECS deployment path so it actually runs the app
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/a5a5d97585c4bd7bc91cee3e0f520438a5460786)**: Pass .env to the containers; end is_guest schema drift (#19)
+- **[PunithVT](https://github.com/PunithVT/PunithVT/commit/752549092acdf6a9aa4bed27d068733c70c45003)**: docs: lead with GitHub Sponsors and say what it funds
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/89e0764e45e2ec3178815f050c4a5ecc20b41fb4)**: Adopt the HireAI design system (#24)
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/065279c9fc66f07a5ddbadce581042b2a8258377)**: Add the Sponsor badge; correct two stale version claims (#23)
 
 
 ### ⭐ Featured Projects
