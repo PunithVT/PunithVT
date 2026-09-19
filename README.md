@@ -605,16 +605,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/0dee976c229b2b6d274f8d04784d7e5be964d7b6)**: docs(funding): correct the stale note now that Sponsors is live (#25)
 - **[PunithVT](https://github.com/PunithVT/PunithVT/commit/752549092acdf6a9aa4bed27d068733c70c45003)**: docs: lead with GitHub Sponsors and say what it funds
 - **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/89e0764e45e2ec3178815f050c4a5ecc20b41fb4)**: Adopt the HireAI design system (#24)
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/065279c9fc66f07a5ddbadce581042b2a8258377)**: Add the Sponsor badge; correct two stale version claims (#23)
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 493
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 494
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[CSvsPVT](https://github.com/PunithVT/CSvsPVT)** - 30-day challenge: AWS (Chandana) + Agentic AI (Punith). Dail... ⭐ 4
 
