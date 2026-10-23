@@ -673,6 +673,8 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
 - **[career-ops](https://github.com/PunithVT/career-ops/commit/1985c6842dab1579a02d193ed71b418fb8d25a7e)**: interview-prep-videos: add README
@@ -682,7 +684,7 @@ focus_areas:
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 548
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 551
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 3
 
