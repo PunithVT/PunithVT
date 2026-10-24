@@ -675,16 +675,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
+- **[connectX](https://github.com/PunithVT/connectX/commit/7f28ecd9bbc6dcbfed585fd047103181f152420e)**: Merge pull request #3 from PunithRooman/feature/bos-sso
 - **[career-ops](https://github.com/PunithVT/career-ops/commit/1985c6842dab1579a02d193ed71b418fb8d25a7e)**: interview-prep-videos: add README
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/0dee976c229b2b6d274f8d04784d7e5be964d7b6)**: docs(funding): correct the stale note now that Sponsors is live (#25)
-- **[PunithVT](https://github.com/PunithVT/PunithVT/commit/752549092acdf6a9aa4bed27d068733c70c45003)**: docs: lead with GitHub Sponsors and say what it funds
+- **[connectX](https://github.com/PunithVT/connectX/commit/51d4641ec662565c21dcebea27cb103d9baeb238)**: feat(auth): add BOS single sign-on (Keycloak), off by default
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 551
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 552
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 3
 
