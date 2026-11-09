@@ -8,6 +8,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-The%20Digital%20Mind-B7FF00?style=for-the-badge&logo=threedotjs&logoColor=black&labelColor=050505)](https://punithvt.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/punithvt)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/punithvt)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/punithvt)
@@ -55,6 +56,7 @@ focus_areas:
 
 ### 📍 Quick Facts
 
+- 🌌 **Portfolio:** [punithvt.github.io](https://punithvt.github.io): an interactive 3D experience; dive into my mind and drive an auto-rickshaw through it
 - 🏢 Currently at **Rooman Technologies Pvt Ltd** as AI Product Developer
 - 🎓 **B.E. Computer Science (Data Science)** - MVJ College of Engineering
 - 🌐 Based in **Bengaluru, Karnataka, India**
