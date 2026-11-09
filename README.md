@@ -711,16 +711,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[connectX](https://github.com/PunithVT/connectX/commit/7f28ecd9bbc6dcbfed585fd047103181f152420e)**: Merge pull request #3 from PunithRooman/feature/bos-sso
-- **[career-ops](https://github.com/PunithVT/career-ops/commit/1985c6842dab1579a02d193ed71b418fb8d25a7e)**: interview-prep-videos: add README
-- **[connectX](https://github.com/PunithVT/connectX/commit/51d4641ec662565c21dcebea27cb103d9baeb238)**: feat(auth): add BOS single sign-on (Keycloak), off by default
+- **[PunithVT](https://github.com/PunithVT/PunithVT/commit/fb32cc0eaa572ed46093b996ee7b5e48aa893c24)**: Add link to my 3D portfolio: punithvt.github.io
+- **[PunithVT.github.io](https://github.com/PunithVT/PunithVT.github.io/commit/70916ef618814c8bec1a13b6d17be918ebf38c32)**: Deploy: SEO/AIO (llms.txt, JSON-LD, sitemap), resilient chunk loading, city prel
+- **[PunithVT.github.io](https://github.com/PunithVT/PunithVT.github.io/commit/3c491724477340c1c6d960e9821d43d551e7bc64)**: Deploy The Digital Mind (static export)
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 570
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 572
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 3
 
