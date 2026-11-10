@@ -713,16 +713,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[PunithVT](https://github.com/PunithVT/PunithVT/commit/fb32cc0eaa572ed46093b996ee7b5e48aa893c24)**: Add link to my 3D portfolio: punithvt.github.io
-- **[PunithVT.github.io](https://github.com/PunithVT/PunithVT.github.io/commit/70916ef618814c8bec1a13b6d17be918ebf38c32)**: Deploy: SEO/AIO (llms.txt, JSON-LD, sitemap), resilient chunk loading, city prel
-- **[PunithVT.github.io](https://github.com/PunithVT/PunithVT.github.io/commit/3c491724477340c1c6d960e9821d43d551e7bc64)**: Deploy The Digital Mind (static export)
+- **[PunithVT.github.io](https://github.com/PunithVT/PunithVT.github.io/commit/47d4034ee8334cf846018a31479cbbb6cf442dac)**: Atmosphere: night, dusk, monsoon rain
+- **[PunithVT.github.io](https://github.com/PunithVT/PunithVT.github.io/commit/cb12d4a4959d65d3991a2d7976e9c8df5a1e3031)**: Realism pass: facades, asphalt, mixed traffic, vehicle lights, SMAA, city audio
+- **[PunithVT.github.io](https://github.com/PunithVT/PunithVT.github.io/commit/7206e03f29c96ad8271f8d0d15ccd3626626c47e)**: Remove InterviewTrap project
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 572
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 573
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 3
 
