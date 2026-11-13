@@ -719,16 +719,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[PunithVT.github.io](https://github.com/PunithVT/PunithVT.github.io/commit/aa60a2926da1cb351ddbd9e630c1f07cbdbdbb5b)**: Deploy 2026-11-12T06:16Z
-- **[PunithVT.github.io](https://github.com/PunithVT/PunithVT.github.io/commit/90ef07609cd12fbebb76488b304de775e83c7898)**: Deploy 2026-11-12T05:22Z
-- **[PunithVT.github.io](https://github.com/PunithVT/PunithVT.github.io/commit/902d589276948edd582ba6843bfe2678cf97532a)**: Deploy 2026-11-11T11:12Z
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/1e3728f122965193798a0eceeb5692015959938d)**: Merge pull request #34 from PunithVT/feat/voice-pipeline
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/458c8fdf6b48638efd5a414d5ab11f8f7f791f4a)**: feat(frontend): send the hands-free microphone up the stream when the server tak
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/783898a10e9e8d631a90a3598baaa35ac83c33cf)**: feat(backend): hands-free microphone over WebRTC with server-side turn detection
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 575
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 576
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 3
 
