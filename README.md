@@ -721,16 +721,18 @@ focus_areas:
 
 
 
+
+
 ### 📝 Recent Activity
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/1e3728f122965193798a0eceeb5692015959938d)**: Merge pull request #34 from PunithVT/feat/voice-pipeline
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/458c8fdf6b48638efd5a414d5ab11f8f7f791f4a)**: feat(frontend): send the hands-free microphone up the stream when the server tak
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/783898a10e9e8d631a90a3598baaa35ac83c33cf)**: feat(backend): hands-free microphone over WebRTC with server-side turn detection
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/b1d2ac22d4370a19077d65fa3136555d114c18eb)**: Merge pull request #36 from PunithVT/feat/progressive-lipsync
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/37cdfce884def277e543e894b63d482d6e0222b4)**: Merge remote-tracking branch 'origin/main' into feat/progressive-lipsync
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system/commit/3304eb60743116512c5248aea22797bde246c5a1)**: feat(backend): put lip-sync frames on the stream as they are generated (opt-in)
 
 
 ### ⭐ Featured Projects
 
-- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 576
+- **[ai-avatar-system](https://github.com/PunithVT/ai-avatar-system)** - 🎭 AI Avatar / digital human platform — upload a photo, clone... ⭐ 579
 - **[100-Days-Of-DataScience](https://github.com/PunithVT/100-Days-Of-DataScience)** - I'm Punith V T, diving into a 100-day data science immersion... ⭐ 13
 - **[livekit_voice_agent](https://github.com/PunithVT/livekit_voice_agent)** - livekit_voice_agent... ⭐ 3
 
